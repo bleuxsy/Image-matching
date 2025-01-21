@@ -1,0 +1,147 @@
+[2025/01/14 10:28:25 hloc INFO] Loading OmniGlue model
+[2025/01/14 10:28:35 hloc INFO] Loaded OmniGlue model done!
+[2025/01/14 10:28:35 hloc INFO] Loading model using: 10.782s
+[2025/01/14 10:28:41 hloc INFO] Matching images done using: 5.427s
+[2025/01/14 10:28:43 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:28:43 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:28:43 hloc INFO] RANSAC matches done using: 2.057s
+[2025/01/14 10:28:45 hloc INFO] Display matches done using: 1.593s
+[2025/01/14 10:28:45 hloc INFO] TOTAL time: 20.176s
+[2025/01/14 10:28:45 hloc INFO] Dump results done!
+[2025/01/14 10:29:48 hloc INFO] Loading OmniGlue model
+[2025/01/14 10:29:56 hloc INFO] Loaded OmniGlue model done!
+[2025/01/14 10:29:56 hloc INFO] Loading model using: 7.827s
+[2025/01/14 10:30:01 hloc INFO] Matching images done using: 4.796s
+[2025/01/14 10:30:03 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:30:03 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:30:03 hloc INFO] RANSAC matches done using: 1.954s
+[2025/01/14 10:30:04 hloc INFO] Display matches done using: 1.585s
+[2025/01/14 10:30:05 hloc INFO] TOTAL time: 16.405s
+[2025/01/14 10:30:05 hloc INFO] Dump results done!
+[2025/01/14 10:30:39 hloc INFO] Loaded Dust3r model
+[2025/01/14 10:30:39 hloc INFO] Loading model using: 19.046s
+[2025/01/14 10:30:41 hloc INFO] Found 12594 matches
+[2025/01/14 10:30:41 hloc INFO] Matching images done using: 1.772s
+[2025/01/14 10:30:43 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:30:43 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:30:43 hloc INFO] RANSAC matches done using: 2.387s
+[2025/01/14 10:30:45 hloc INFO] Display matches done using: 1.991s
+[2025/01/14 10:30:46 hloc INFO] TOTAL time: 25.567s
+[2025/01/14 10:30:46 hloc INFO] Dump results done!
+[2025/01/14 10:34:15 hloc INFO] Loaded Dust3r model
+[2025/01/14 10:34:15 hloc INFO] Loading model using: 5.210s
+[2025/01/14 10:34:16 hloc INFO] Found 10754 matches
+[2025/01/14 10:34:16 hloc INFO] Matching images done using: 0.727s
+[2025/01/14 10:34:18 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:34:18 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:34:18 hloc INFO] RANSAC matches done using: 2.234s
+[2025/01/14 10:34:20 hloc INFO] Display matches done using: 1.792s
+[2025/01/14 10:34:20 hloc INFO] TOTAL time: 10.240s
+[2025/01/14 10:34:20 hloc INFO] Dump results done!
+[2025/01/14 10:39:00 hloc INFO] Loaded Efficient LoFTR with weights eloftr_outdoor.ckpt
+[2025/01/14 10:39:00 hloc INFO] Loading model using: 3.522s
+[2025/01/14 10:39:00 hloc INFO] preprocessing is already resized
+[2025/01/14 10:39:00 hloc INFO] Matching images done using: 0.228s
+[2025/01/14 10:39:02 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:39:02 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:39:02 hloc INFO] RANSAC matches done using: 2.168s
+[2025/01/14 10:39:04 hloc INFO] Display matches done using: 1.614s
+[2025/01/14 10:39:04 hloc INFO] TOTAL time: 7.856s
+[2025/01/14 10:39:04 hloc INFO] Dump results done!
+[2025/01/14 10:40:36 hloc INFO] Loaded Efficient LoFTR with weights eloftr_outdoor.ckpt
+[2025/01/14 10:40:36 hloc INFO] Loading model using: 0.960s
+[2025/01/14 10:40:36 hloc INFO] preprocessing is already resized
+[2025/01/14 10:40:36 hloc INFO] Matching images done using: 0.114s
+[2025/01/14 10:40:38 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:40:38 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:40:38 hloc INFO] RANSAC matches done using: 2.261s
+[2025/01/14 10:40:40 hloc INFO] Display matches done using: 1.893s
+[2025/01/14 10:40:40 hloc INFO] TOTAL time: 5.490s
+[2025/01/14 10:40:40 hloc INFO] Dump results done!
+[2025/01/14 10:42:16 hloc INFO] Loaded Efficient LoFTR with weights eloftr_outdoor.ckpt
+[2025/01/14 10:42:17 hloc INFO] Loading model using: 0.842s
+[2025/01/14 10:42:17 hloc INFO] preprocessing is already resized
+[2025/01/14 10:42:17 hloc INFO] Matching images done using: 0.093s
+[2025/01/14 10:42:19 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:42:19 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:42:19 hloc INFO] RANSAC matches done using: 2.348s
+[2025/01/14 10:42:21 hloc INFO] Display matches done using: 1.735s
+[2025/01/14 10:42:21 hloc INFO] TOTAL time: 5.377s
+[2025/01/14 10:42:21 hloc INFO] Dump results done!
+[2025/01/14 10:42:50 hloc INFO] Loaded XoFTR with weights weights_xoftr_640.ckpt
+[2025/01/14 10:42:50 hloc INFO] Loading model using: 1.392s
+[2025/01/14 10:42:50 hloc INFO] preprocessing is already resized
+[2025/01/14 10:42:50 hloc INFO] Matching images done using: 0.287s
+[2025/01/14 10:42:53 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:42:53 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:42:53 hloc INFO] RANSAC matches done using: 2.490s
+[2025/01/14 10:42:55 hloc INFO] Display matches done using: 1.767s
+[2025/01/14 10:42:55 hloc INFO] TOTAL time: 6.415s
+[2025/01/14 10:42:55 hloc INFO] Dump results done!
+[2025/01/14 10:43:19 hloc INFO] Loaded XoFTR with weights weights_xoftr_640.ckpt
+[2025/01/14 10:43:19 hloc INFO] Loading model using: 0.802s
+[2025/01/14 10:43:19 hloc INFO] preprocessing is already resized
+[2025/01/14 10:43:20 hloc INFO] Matching images done using: 0.232s
+[2025/01/14 10:43:22 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:43:22 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:43:22 hloc INFO] RANSAC matches done using: 2.501s
+[2025/01/14 10:43:24 hloc INFO] Display matches done using: 1.635s
+[2025/01/14 10:43:24 hloc INFO] TOTAL time: 5.551s
+[2025/01/14 10:43:24 hloc INFO] Dump results done!
+[2025/01/14 10:44:01 hloc INFO] Loaded XoFTR with weights weights_xoftr_640.ckpt
+[2025/01/14 10:44:01 hloc INFO] Loading model using: 0.549s
+[2025/01/14 10:44:01 hloc INFO] preprocessing is already resized
+[2025/01/14 10:44:01 hloc INFO] Matching images done using: 0.272s
+[2025/01/14 10:44:03 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:44:03 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:44:03 hloc INFO] RANSAC matches done using: 2.301s
+[2025/01/14 10:44:05 hloc INFO] Display matches done using: 1.836s
+[2025/01/14 10:44:05 hloc INFO] TOTAL time: 5.306s
+[2025/01/14 10:44:05 hloc INFO] Dump results done!
+[2025/01/14 10:44:36 hloc INFO] Loading Roma model
+[2025/01/14 10:44:51 hloc INFO] Load Roma model done.
+[2025/01/14 10:44:51 hloc INFO] Loading model using: 15.958s
+[2025/01/14 10:44:52 hloc INFO] Matching images done using: 1.237s
+[2025/01/14 10:44:54 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:44:54 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:44:54 hloc INFO] RANSAC matches done using: 2.294s
+[2025/01/14 10:44:56 hloc INFO] Display matches done using: 1.738s
+[2025/01/14 10:44:57 hloc INFO] TOTAL time: 21.586s
+[2025/01/14 10:44:57 hloc INFO] Dump results done!
+[2025/01/14 10:45:23 hloc INFO] Loading Roma model
+[2025/01/14 10:45:28 hloc INFO] Load Roma model done.
+[2025/01/14 10:45:28 hloc INFO] Loading model using: 5.470s
+[2025/01/14 10:45:29 hloc INFO] Matching images done using: 1.189s
+[2025/01/14 10:45:31 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:45:31 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:45:31 hloc INFO] RANSAC matches done using: 2.478s
+[2025/01/14 10:45:33 hloc INFO] Display matches done using: 1.741s
+[2025/01/14 10:45:34 hloc INFO] TOTAL time: 11.241s
+[2025/01/14 10:45:34 hloc INFO] Dump results done!
+[2025/01/14 10:47:35 hloc INFO] ReLoaded LoFTR(minima) with weights minima_loftr.ckpt
+[2025/01/14 10:47:35 hloc INFO] Loading model using: 1.786s
+[2025/01/14 10:47:36 hloc INFO] Matching images done using: 0.349s
+[2025/01/14 10:47:38 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:47:38 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:47:38 hloc INFO] RANSAC matches done using: 2.058s
+[2025/01/14 10:47:39 hloc INFO] Display matches done using: 1.605s
+[2025/01/14 10:47:40 hloc INFO] TOTAL time: 6.067s
+[2025/01/14 10:47:40 hloc INFO] Dump results done!
+[2025/01/14 10:48:14 hloc INFO] ReLoaded LoFTR(minima) with weights minima_loftr.ckpt
+[2025/01/14 10:48:14 hloc INFO] Loading model using: 0.621s
+[2025/01/14 10:48:15 hloc INFO] Matching images done using: 0.344s
+[2025/01/14 10:48:17 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:48:17 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:48:17 hloc INFO] RANSAC matches done using: 2.296s
+[2025/01/14 10:48:19 hloc INFO] Display matches done using: 2.114s
+[2025/01/14 10:48:19 hloc INFO] TOTAL time: 5.710s
+[2025/01/14 10:48:19 hloc INFO] Dump results done!
+[2025/01/14 10:48:43 hloc INFO] ReLoaded LoFTR(minima) with weights minima_loftr.ckpt
+[2025/01/14 10:48:43 hloc INFO] Loading model using: 0.654s
+[2025/01/14 10:48:44 hloc INFO] Matching images done using: 0.298s
+[2025/01/14 10:48:46 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Fundamental
+[2025/01/14 10:48:46 hloc INFO] ransac_method: CV2_USAC_DEFAULT, geometry_type: Homography
+[2025/01/14 10:48:46 hloc INFO] RANSAC matches done using: 1.853s
+[2025/01/14 10:48:47 hloc INFO] Display matches done using: 1.743s
+[2025/01/14 10:48:48 hloc INFO] TOTAL time: 4.935s
+[2025/01/14 10:48:48 hloc INFO] Dump results done!
